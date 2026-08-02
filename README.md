@@ -1,7 +1,7 @@
 # Template for CPSC2720 Major Project: Text-based Adventure Game
 
 
-# Was used to run on the lab computers, all code for the game and server was created by the group
+# Was used to run on the lab computers, all code for the game was created by the group
 
 Notes:
 
